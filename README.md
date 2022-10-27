@@ -15,3 +15,4 @@
   `2`. JPA가 SQL을 만들어 JDBC API를 사용해 DB에 전송    
   `3`. DB로부터 반환된 결과를 JAVA 애플리케이션에서 사용
   <img src="https://user-images.githubusercontent.com/50009240/197345390-f7c3eeb3-6f49-4e88-a12c-55e40f19ec20.png" width="500" height="200">
+ * 
